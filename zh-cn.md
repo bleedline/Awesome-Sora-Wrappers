@@ -8,7 +8,7 @@ Readme收录包括各类Sora场景的开源/闭源项目，套壳站，APIs，�
 
 ### Opensource Wrappers（开源套壳站）
 
-| 开源项目名称     | 开源代码地址                                   | 演示网站地址                  | Image                              |
+| 开源项目名称     | 开源代码地址                                   | 演示网站地址                  | 示例图片                              |
 | -------------- | ------------------------------------------ | -------------------------- | ---------------------------------- |
 | SoraWebui      | [GitHub](https://github.com/SoraWebui/SoraWebui) | [访问](https://sorawebui.com/) | ![Image](images/SoraWebui.png)     |
 | Sora-Next-Web  | [GitHub](https://github.com/SoraWeb/sora-next-web) | [访问](https://web.getsoraapp.com/) | ![Image](images/Sora-Next-Web.png) |
