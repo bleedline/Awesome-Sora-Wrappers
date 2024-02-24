@@ -3,8 +3,8 @@ Recommand awesome ai-wrapper scene about Sora.
 And some useful APIs about Sora.
 If you have a project similar to these, we welcome you to contribute and share it in this README.
 
-Lanuage
-English | 中文
+**Languages:** [English](README.md) | [中文](https://github.com/bleedline/Awesome-Sora-Wrappers/blob/main/zh-cn)
+
 ------
 
 ## Project List
