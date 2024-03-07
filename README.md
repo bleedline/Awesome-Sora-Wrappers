@@ -26,5 +26,11 @@ If you have a project similar to these, we welcome you to contribute and share i
 | FakeSoraAPI              | [GitHub](https://github.com/SoraWebui/FakeSoraAPI) |
 
 
+### Open-Sora Project
+
+| Open Source Project Name | Source Code URL                                     |
+| ------------------------ | --------------------------------------------------- |
+| Open Sora                | [GitHub](https://github.com/PKU-YuanGroup/Open-Sora-Plan)  |
+| Open-Sora-Plan           | [GitHub](https://github.com/PKU-YuanGroup/Open-Sora-Plan)  |
 
 
