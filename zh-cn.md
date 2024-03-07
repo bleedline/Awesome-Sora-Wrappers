@@ -21,3 +21,11 @@ Readme收录包括各类Sora场景的开源/闭源项目，套壳站，APIs，�
 | 开源项目名称   | 开源代码地址                                     |
 | ------------ | -------------------------------------------- |
 | FakeSoraAPI  | [GitHub](https://github.com/SoraWebui/FakeSoraAPI) |
+
+
+### Open-Sora 项目
+
+| Open Source Project Name | Source Code URL                                     |
+| ------------------------ | --------------------------------------------------- |
+| Open Sora（Sora模型训练） | [GitHub](https://github.com/PKU-YuanGroup/Open-Sora-Plan)  |
+| Open-Sora-Plan(清华Sora复原) | [GitHub](https://github.com/PKU-YuanGroup/Open-Sora-Plan)  |
