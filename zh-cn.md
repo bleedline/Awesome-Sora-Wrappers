@@ -14,6 +14,7 @@ Readme收录包括各类Sora场景的开源/闭源项目，套壳站，APIs，�
 | Sora-Next-Web  | [GitHub](https://github.com/SoraWeb/sora-next-web) | [访问](https://web.getsoraapp.com/) | ![Image](images/Sora-Next-Web.png) |
 | Sorafm         | [GitHub](https://github.com/all-in-aigc/sorafm) | [访问](https://sora.fm)    | ![Image](images/Sorafm.png)        |
 | SoraFlows      | [GitHub](https://github.com/SoraFlows/SoraFlows) | [访问](https://www.soraflows.com/en-US) | ![Image](images/SoraFlows.png)     |
+| SwiftSora                | [GitHub](https://github.com/jasonwang178/SwiftSora) |  [Visit](https://www.swiftsora.com/zh-CN) | ![Image](images/SwiftSora.png)     |
 
 
 ### APIs（APIs）
@@ -30,11 +31,3 @@ Readme收录包括各类Sora场景的开源/闭源项目，套壳站，APIs，�
 | Open Sora（Sora模型训练） | [GitHub](https://github.com/PKU-YuanGroup/Open-Sora-Plan)  |
 | Open-Sora-Plan(清华Sora复原) | [GitHub](https://github.com/PKU-YuanGroup/Open-Sora-Plan)  |
 
-
-## 其他Sora项目
-
-### 套壳站
-
-| 项目名称                 | 网站URL                  | 示例图片                              |
-| ------------------------ |  ------------------------------ | ---------------------------------- |
-| SwiftSora                |  [Visit](https://www.swiftsora.com/zh-CN) | ![Image](images/SwiftSora.png)     |
