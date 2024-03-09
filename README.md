@@ -17,6 +17,7 @@ If you have a project similar to these, we welcome you to contribute and share i
 | Sora-Next-Web            | [GitHub](https://github.com/SoraWeb/sora-next-web) | [Visit](https://web.getsoraapp.com/) | ![Image](images/Sora-Next-Web.png) |
 | Sorafm                   | [GitHub](https://github.com/all-in-aigc/sorafm) | [Visit](https://sora.fm)    | ![Image](images/Sorafm.png)        |
 | SoraFlows                | [GitHub](https://github.com/SoraFlows/SoraFlows) | [Visit](https://www.soraflows.com/en-US) | ![Image](images/SoraFlows.png)     |
+| SwiftSora                | [GitHub](https://github.com/jasonwang178/SwiftSora) |  [Visit](https://www.swiftsora.com/en-US) | ![Image](images/SwiftSora.png)     |
 
 
 
@@ -33,12 +34,3 @@ If you have a project similar to these, we welcome you to contribute and share i
 | ------------------------ | --------------------------------------------------- |
 | Open Sora                | [GitHub](https://github.com/PKU-YuanGroup/Open-Sora-Plan)  |
 | Open-Sora-Plan           | [GitHub](https://github.com/PKU-YuanGroup/Open-Sora-Plan)  |
-
-
-## Other Sora Project List
-
-### Wrappers
-
-| Project Name             | WebSite URL                  | Image                              |
-| ------------------------ |  ------------------------------ | ---------------------------------- |
-| SwiftSora                |  [Visit](https://www.swiftsora.com/en-US) | ![Image](images/SwiftSora.png)     |
