@@ -19,6 +19,7 @@ If you have a project similar to these, we welcome you to contribute and share i
 | SoraFlows                | [GitHub](https://github.com/SoraFlows/SoraFlows) | [Visit](https://www.soraflows.com/en-US) | ![Image](images/SoraFlows.png)     |
 
 
+
 ### APIs
 
 | Open Source Project Name | Source Code URL                                     |
@@ -34,3 +35,10 @@ If you have a project similar to these, we welcome you to contribute and share i
 | Open-Sora-Plan           | [GitHub](https://github.com/PKU-YuanGroup/Open-Sora-Plan)  |
 
 
+## Other Sora Project List
+
+### Wrappers
+
+| Project Name             | WebSite URL                  | Image                              |
+| ------------------------ |  ------------------------------ | ---------------------------------- |
+| SwiftSora                |  [Visit](https://www.swiftsora.com/en-US) | ![Image](images/SwiftSora.png)     |
